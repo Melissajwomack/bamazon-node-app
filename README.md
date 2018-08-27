@@ -12,7 +12,7 @@ This app allows a customer to view and purchase products from an inventory. The 
     * Choose from the list of options.
     * You will be prompted to enter the item id (found in the displayed table) and quanitity you wish to purchase.
     * If you try to purchase more than what is availible, the app will you know and prompt you to start over.
-* bamazonManager.js
+* bamazonManager.js:
     * Choose from the list of options.
     * It is recommened that you view the inventory before updating inventory to obtain the item id for the product you wish to update.
     * If you wish to add to existing inventory, you will be prompted to enter the item id (found in the table) and the new amount (total including what was already in the inventory).
