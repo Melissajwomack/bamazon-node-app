@@ -23,4 +23,4 @@ This app allows a customer to view and purchase products from an inventory. The 
 * **Press Control + C to exit the app at anytime**
 
 ## See how to use the app
-* [Screen Castify Video](https://drive.google.com/open?id=1DcqLXsSTJfhy4vSrnqM7uprmRd-GgOrF)
+* [Screencastify Video](https://drive.google.com/open?id=1DcqLXsSTJfhy4vSrnqM7uprmRd-GgOrF)
