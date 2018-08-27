@@ -3,8 +3,9 @@ This app allows a customer to view and purchase products from an inventory. The 
 
 ## How to use the app
 
-* First, cd into the directory that contains the bamazon.js files in the terminal.
+* First, navigate to the directory that contains the bamazon.js files in the terminal.
 * Then, type node, space, and the file name that is appropriate (bamazonCustomer.js, bamazonManager.js, or bamazonSupervisor.js).
+```node bamazonCustomer.js```
 * Press enter.
 * bamazonCustomer.js:
     * Choose from the list of options.
