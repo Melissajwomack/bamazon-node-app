@@ -2,7 +2,6 @@ var inquirer = require("inquirer");
 var mysql = require("mysql");
 var chalk = require("chalk");
 const cTable = require("console.table");
-
 cTable
 
 var connection = mysql.createConnection({
