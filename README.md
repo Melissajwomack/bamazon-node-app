@@ -1,5 +1,5 @@
 # About the app
-This app allows a customer to view and purchase products from an inventory. The app also allows a manager to view inventory, view inventory that is low (less than 5), update inventory, and add new inventory. Finally, the app allows a supervisor to view product sales by department and add new deparments. All the product information is stored in a MySql database and is updated in real time. The app uses the following npms: chalk, inquirer, mysql, and cTable.
+This app allows a customer to view and purchase products from an inventory. The app also allows a manager to view inventory, view inventory that is low (less than 5), update inventory, and add new inventory. Finally, the app allows a supervisor to view product sales by department and add new deparments. All the product information is stored in a MySql database and is updated in real time. The app uses the following node packages: chalk, inquirer, mysql, and cTable.
 
 ## How to use the app
 
